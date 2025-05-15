@@ -1,4 +1,4 @@
-namespace com.win.template;
+namespace com.fahrialmd.example;
 
 using {
     cuid,
@@ -6,7 +6,7 @@ using {
     managed
 } from '@sap/cds/common';
 
-using {com.win.template as temp} from '../index';
+using {com.fahrialmd.example as temp} from '../index';
 
 @fiori.draft.enabled
 entity Books : cuid, managed {

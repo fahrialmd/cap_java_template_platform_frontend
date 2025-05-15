@@ -1,11 +1,11 @@
-namespace com.win.template;
+namespace com.fahrialmd.example;
 
 using {
     cuid,
     managed
 } from '@sap/cds/common';
 
-using {com.win.template as temp} from '../index';
+using {com.fahrialmd.example as temp} from '../index';
 
 entity Reviews : cuid, managed {
     @cds.odata.ValueList

@@ -1,4 +1,4 @@
-using {com.win.template as temp} from '../index';
+using {com.fahrialmd.example as temp} from '../index';
 
 extend temp.Books with {
     isbn : temp.ISBN;

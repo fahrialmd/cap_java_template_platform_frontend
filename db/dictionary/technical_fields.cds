@@ -1,4 +1,4 @@
-namespace com.win.template;
+namespace com.fahrialmd.example;
 
 type Tech_Boolean : Boolean @(
     UI.Hidden,
